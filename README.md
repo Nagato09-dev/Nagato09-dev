@@ -1,29 +1,18 @@
 # Olá, eu sou o Gabriel Lúcio! 👋
 
-![Status](https://shields.io) ![Foco](https://shields.io)
-
 ### 🚀 Sobre Mim
-Sou estudante de **Desenvolvimento de Software**. Atualmente focado no aprendizado de Python e lógica de programação, além de desenvolver projetos de Front-end e automação com Arduino (C++). Busco evoluir constantemente minhas habilidades e aplicar boas práticas de mercado no meu código.
+Sou estudante de **Desenvolvimento de Software**. Atualmente estou focado no aprendizado de Python e lógica de programação, além de desenvolver projetos de Front-end (HTML/CSS) e automação com Arduino (C++). Busco evoluir constantemente minhas habilidades e aplicar boas práticas de mercado no meu código.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias 
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | ![Python](https://shields.io) ![C++](https://shields.io++
--00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
-
-| **Front-end** | ![HTML5](https://shields.io) ![CSS3](https://shields.ioSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Ferramentas** | ![Arduino](https://shields.io) ![VS Code](https://shields.io) ![Git](https://shields.io) |
-
----
-
-### 📊 Minhas Estatísticas
-
-![Estatísticas do GitHub](https://vercel.app)
+* 💻 **Linguagens:** Python | C++ (Arduino)
+* 🌐 **Front-end:** HTML5 | CSS3
+* 🔧 **Ferramentas:** Git | GitHub | VS Code
 
 ---
 
 ### 📫 Conecte-se comigo
-[![Gmail](https://shields.io)](mailto:gabriellucio0908@gmail.com)
+* 📧 **E-mail:** gabriellucio0908@gmail.com
+* 💻 **GitHub:** Nagato09-dev
