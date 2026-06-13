@@ -1,9 +1,6 @@
 # Olá, eu sou o Gabriel Lúcio! 👋
 
-<p align="center">
-  <img src="https://shields.io" alt="Status">
-  <img src="https://shields.io" alt="Foco">
-</p>
+![Status](https://shields.io) ![Foco](https://shields.io)
 
 ### 🚀 Sobre Mim
 Sou estudante de **Desenvolvimento de Software**. Atualmente focado no aprendizado de Python e lógica de programação, além de desenvolver projetos de Front-end e automação com Arduino (C++). Busco evoluir constantemente minhas habilidades e aplicar boas práticas de mercado no meu código.
@@ -12,29 +9,21 @@ Sou estudante de **Desenvolvimento de Software**. Atualmente focado no aprendiza
 
 ### 🛠️ Tecnologias & Ferramentas
 
-| Categoria | Ícones / Tecnologias |
+| Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | <img src="https://shields.io" alt="Python"> <img src="https://shields.io" alt="C++"> |
-| **Front-end** | <img src="https://shields.io" alt="HTML5"> <img src="https://shields.io" alt="CSS3"> |
-| **Ferramentas** | <img src="https://shields.io" alt="Arduino"> <img src="https://shields.io" alt="VS Code"> <img src="https://shields.io" alt="Git"> |
+| **Linguagens** | ![Python](https://shields.io) ![C++](https://shields.io++
+-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+
+| **Front-end** | ![HTML5](https://shields.io) ![CSS3](https://shields.ioSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Ferramentas** | ![Arduino](https://shields.io) ![VS Code](https://shields.io) ![Git](https://shields.io) |
 
 ---
 
 ### 📊 Minhas Estatísticas
 
-<p align="center">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" width="400">
-</p>
+![Estatísticas do GitHub](https://vercel.app)
 
 ---
 
 ### 📫 Conecte-se comigo
-<p align="left">
-  <a href="mailto:gabriellucio0908@gmail.com" target="_blank">
-    <img src="https://shields.io" alt="Gmail">
-  </a>
-</p>
-
-_Modificado em junho de 2026_
-
-
+[![Gmail](https://shields.io)](mailto:gabriellucio0908@gmail.com)
