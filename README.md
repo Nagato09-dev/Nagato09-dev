@@ -30,7 +30,7 @@ Sou estudante de **Desenvolvimento de Software**. Atualmente focado no aprendiza
 
 ### 📫 Conecte-se comigo
 <p align="left">
-  <a href="mailto:seu-email@gmail.com" target="_blank">
+  <a href="mailto:gabriellucio0908@gmail.com" target="_blank">
     <img src="https://shields.io" alt="Gmail">
   </a>
 </p>
