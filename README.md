@@ -6,7 +6,7 @@
 </p>
 
 ### 🚀 Sobre Mim
-Sou estudante de **Desenvolvimento de Software**, focado no aprendizado de Python, desenvolvimento de algoritmos e estruturação de projetos de backend. Busco evoluir constantemente minha lógica de programação e aplicar boas práticas de mercado no meu código.
+Sou estudante de **Desenvolvimento de Software**. Atualmente focado no aprendizado de Python e lógica de programação, além de desenvolver projetos de Front-end e automação com Arduino (C++). Busco evoluir constantemente minhas habilidades e aplicar boas práticas de mercado no meu código.
 
 ---
 
@@ -14,8 +14,9 @@ Sou estudante de **Desenvolvimento de Software**, focado no aprendizado de Pytho
 
 | Categoria | Ícones / Tecnologias |
 | :--- | :--- |
-| **Linguagens** | <img src="https://shields.io" alt="Python"> <img src="https://shields.io" alt="JavaScript"> |
-| **Ferramentas** | <img src="https://shields.io" alt="VS Code"> <img src="https://shields.io" alt="Git"> <img src="https://shields.io" alt="GitHub"> |
+| **Linguagens** | <img src="https://shields.io" alt="Python"> <img src="https://shields.io" alt="C++"> |
+| **Front-end** | <img src="https://shields.io" alt="HTML5"> <img src="https://shields.io" alt="CSS3"> |
+| **Ferramentas** | <img src="https://shields.io" alt="Arduino"> <img src="https://shields.io" alt="VS Code"> <img src="https://shields.io" alt="Git"> |
 
 ---
 
@@ -23,14 +24,13 @@ Sou estudante de **Desenvolvimento de Software**, focado no aprendizado de Pytho
 
 <p align="center">
   <img src="https://vercel.app" alt="Estatísticas do GitHub" width="400">
-  <img src="https://vercel.app" alt="Linguagens Mais Usadas" width="350">
 </p>
 
 ---
 
 ### 📫 Conecte-se comigo
 <p align="left">
-  <a href="mailto:gabriellucio0908@gmail.com" target="_blank">
+  <a href="mailto:seu-email@gmail.com" target="_blank">
     <img src="https://shields.io" alt="Gmail">
   </a>
 </p>
