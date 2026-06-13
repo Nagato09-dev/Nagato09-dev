@@ -1,1 +1,2 @@
-![Linguagens mais usadas](https://vercel.app)
+![Estatísticas do GitHub](https://vercel.app)
+
