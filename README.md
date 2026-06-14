@@ -7,7 +7,7 @@ Sou estudante de **Desenvolvimento de Software**. Atualmente estou focado no apr
 
 ### 🛠️ Tecnologias 
 
-* 💻 **Linguagens:** Python | C++ (Arduino)
+* 💻 **Linguagens:** Python | C++ (Arduino) | Haskell
 * 🌐 **Front-end:** HTML5 | CSS3
 * 🔧 **Ferramentas:** Git | GitHub | VS Code
 
