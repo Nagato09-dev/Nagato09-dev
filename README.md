@@ -21,6 +21,6 @@ Sou estudante de **Desenvolvimento de Software**. Atualmente estou focado no apr
 
 ### 📊 Estatísticas do GitHub
 
-![Lines of Code](https://img.shields.io/tokei/lines/github/Nagato09-dev/1_Termo)
+![Lines of Code](https://github-readme-stats.vercel.app/api?username=Nagato09-dev&show_icons=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagato09-dev&layout=compact&theme=tokyonight)
