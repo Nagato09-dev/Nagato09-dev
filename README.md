@@ -23,4 +23,3 @@ Sou estudante de **Desenvolvimento de Software**. Atualmente estou focado no apr
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagato09-dev&layout=compact&theme=tokyonight)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Nagato09-dev&theme=tokyonight&no-frame=true&margin-w=15&column=6)
