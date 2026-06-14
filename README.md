@@ -16,3 +16,11 @@ Sou estudante de **Desenvolvimento de Software**. Atualmente estou focado no apr
 ### 📫 Conecte-se comigo
 * 📧 **E-mail:** gabriellucio0908@gmail.com
 * 💻 **GitHub:** Nagato09-dev
+
+---
+
+### 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nagato09-dev&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagato09-dev&layout=compact&theme=tokyonight)
