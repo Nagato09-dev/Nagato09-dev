@@ -1,3 +1,5 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=200&section=header&text=Gabriel%20Lúcio%20de%20Araújo&fontSize=30&fontColor=ffffff)
+
 # Olá, eu sou o Gabriel Lúcio! 👋
 
 ### 🚀 Sobre Mim
@@ -22,4 +24,16 @@ Sou estudante de **Desenvolvimento de Software**. Atualmente estou focado no apr
 ### 📊 Estatísticas do GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagato09-dev&layout=compact&theme=tokyonight)
+
+---
+
+### 📊 Resumo de Atividade
+
+- 🧑‍💻 66 commits realizados
+- 📁 62 arquivos modificados
+- ➕ 1.865 linhas adicionadas
+- ➖ 114 linhas removidas
+- 🌿 Atividade em múltiplas branches
+
+🚀 Evoluindo constantemente em desenvolvimento de software
 
